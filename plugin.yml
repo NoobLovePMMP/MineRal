@@ -1,0 +1,8 @@
+name: MineRal
+api: 5.0.0
+version: 1.0.0
+main: Noob\MineRal\MineRal
+author: NoobMCGaming
+permissions:
+  mineral.cmd:
+    default: true
